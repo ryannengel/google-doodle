@@ -1,0 +1,60 @@
+.wrapper{
+  background: #d1d3d4;
+  width: 90%;
+  margin: 4% auto;
+  padding: 2.5%;
+  border-radius: 50%;
+}
+
+
+#oval {
+  fill:#D1D3D4;
+  padding: 5%;
+  width: 90%;
+}
+
+#girl {
+  display: inline-block;
+  width: 15%;
+  padding-left: 12%;
+}
+
+#crop {
+  display: inline-block;
+  width: 15%;
+  padding-bottom: 4%;
+}
+
+#command {
+  display: inline-block;
+  width: 18%;
+  padding-bottom: 10%;
+  margin-left: -4%;
+}
+
+#apple {
+  display: inline-block;
+  width: 17%;
+  margin-left: -4%;
+}
+
+#ruler {
+  width: 7%;
+  padding-bottom: 2%;
+}
+
+#pen {
+  width: 10%;
+  padding-bottom: 4%;
+  margin-left: -1%;
+}
+
+.search {
+  width: 70%;
+  margin: 0 auto;
+}
+
+input{
+  width: 100%;
+  padding: 1.5%
+}
